@@ -43,6 +43,7 @@ const harshal = {
   currentFocus: "Advanced CS & Full-Stack Technologies",
   experience  : "Industrial Training @ ITnium",
   languages   : ["Java", "C", "C++", "C#", "JavaScript", "Assembly"],
+  frameworks  : ["React.js"],
   databases   : ["MySQL", "MongoDB"],
   os          : "Linux Mint",
   hobbies     : ["Coding", "Building Clones", "Game Dev", "Problem Solving"],
@@ -119,7 +120,7 @@ Native Android apps using Java & XML with intuitive UX and clean architecture. B
 <div align="center">
 
 ### 🌐 Web Technologies
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="50" alt="Web Technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" height="50" alt="Web Technologies"/>
 
 ### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=java,c,cpp,cs&theme=dark" height="50" alt="Languages"/>
@@ -142,6 +143,7 @@ Native Android apps using Java & XML with intuitive UX and clean architecture. B
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -267,16 +269,19 @@ Native Android apps using Java & XML with intuitive UX and clean architecture. B
 <td valign="top" width="50%">
 
 ### ⚔️ Pokemon Battle Game
-> Custom turn-based game logic system
+> Interactive browser-based turn-based battle game
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" height="140" alt="Battle Game"/>
 
-- ⚔️ Full turn-based battle mechanics
-- 🎮 Custom Pokemon stat & move system
-- 🏆 OOP design with inheritance
-- 🔢 Damage calculation algorithms
+- ⚔️ Full turn-based battle system with React state management
+- 🎮 Dynamic move selection, HP bars & animated battle UI
+- 🌐 Fully browser-based — no install needed
+- 🎨 Styled with custom CSS animations & responsive layout
 
 </td>
 </tr>
@@ -340,14 +345,9 @@ Native Android apps using Java & XML with intuitive UX and clean architecture. B
 
 <div align="center">
 
-<details open>
-<summary><b>🧠 Full Skills Breakdown — Click to expand</b></summary>
-
-<br/>
-
 | Domain | Skills | Level |
 |--------|--------|-------|
-| 🌐 **Web Frontend** | HTML5, CSS3, JavaScript | `████████░░` Advanced |
+| 🌐 **Web Frontend** | HTML5, CSS3, JavaScript, React | `████████░░` Advanced |
 | ☕ **Java** | Core Java, OOP, Swing, Android | `████████░░` Advanced |
 | ⚙️ **C / C++** | System Programming, DSA | `███████░░░` Intermediate |
 | 📱 **Android Dev** | Java + XML, Android Studio | `██████░░░░` Intermediate |
@@ -357,8 +357,6 @@ Native Android apps using Java & XML with intuitive UX and clean architecture. B
 | 🐍 **Python** | Backend Scripting, Automation | `█████░░░░░` Familiar |
 | 🐧 **Linux** | Linux Mint, Terminal, Shell | `██████░░░░` Intermediate |
 | 🔁 **Version Control** | Git, GitHub | `██████░░░░` Intermediate |
-
-</details>
 
 </div>
 
@@ -374,9 +372,7 @@ Native Android apps using Java & XML with intuitive UX and clean architecture. B
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="48%" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="48%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true&hide_rank=false" width="60%" alt="GitHub Stats"/>
 
 </div>
 
@@ -384,15 +380,14 @@ Native Android apps using Java & XML with intuitive UX and clean architecture. B
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakNum=ffffff&sideNums=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" width="65%" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%" alt="Trophies"/>
+<!-- Static achievement badges that always display regardless of history -->
+<img src="https://img.shields.io/badge/🏗️_Projects_Built-6+-a78bfa?style=for-the-badge&labelColor=0d1117" alt="Projects"/>
+&nbsp;
+<img src="https://img.shields.io/badge/💻_Languages_Known-8+-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Languages"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🏢_Industrial_Training-ITnium-22c55e?style=for-the-badge&labelColor=0d1117" alt="Experience"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🎯_Domains-Full--Stack_%7C_Web_%7C_Android_%7C_Game-f59e0b?style=for-the-badge&labelColor=0d1117" alt="Domains"/>
 
 </div>
 
