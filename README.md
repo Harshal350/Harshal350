@@ -15,11 +15,11 @@
 <br/><br/>
 
 <!-- PROFILE VIEWS BADGE -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=%F0%9F%91%81%EF%B8%8F+Profile+Views&color=7c3aed&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Harshal350&label=%F0%9F%91%81%EF%B8%8F+Profile+Views&color=7c3aed&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/%F0%9F%92%BC_Open_To-Opportunities-22c55e?style=for-the-badge" alt="Open to Work"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%93%8D_Location-Akluj%2C_India-f59e0b?style=for-the-badge" alt="Location"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_Location-PUNE%2C_India-f59e0b?style=for-the-badge" alt="Location"/>
 
 </div>
 
