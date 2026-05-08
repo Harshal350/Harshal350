@@ -372,8 +372,7 @@ Native Android apps using Java & XML with intuitive UX and clean architecture. B
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true&hide_rank=false" width="60%" alt="GitHub Stats"/>
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Harshal350&show_icons=true&theme=tokyonight)
 </div>
 
 <br/>
