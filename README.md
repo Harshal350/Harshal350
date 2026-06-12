@@ -447,6 +447,6 @@ I'm always open to internships, collaborations, freelance projects, and conversa
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer&fontColor=fff&fontSize=16&text=Thanks+for+visiting!+Let%27s+build+something+great.&fontAlignY=70&animation=twinkling)
 
-*Made with precision by Harshal Mahadik · Pune, India · B.Tech CS (Year 1)*
+*Made with precision by Harshal Mahadik · Pune, India · B.Tech CS (Year 3)*
 
 </div>
