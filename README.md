@@ -1,4 +1,4 @@
-<img width="1080" height="772" alt="image" src="https://github.com/user-attachments/assets/6a8d2f2e-6f26-46a5-8ec8-338f705cf423" /><div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A78BFA,100:38BDF8&height=200&section=header&text=Harshal%20Mahadik&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20·%20Android%20·%20Systems%20·%20Game%20Dev&descAlignY=58&descSize=16&descColor=e0e7ff" width="100%"/>
 
