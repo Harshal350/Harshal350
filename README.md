@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1080" height="772" alt="image" src="https://github.com/user-attachments/assets/6a8d2f2e-6f26-46a5-8ec8-338f705cf423" /><div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A78BFA,100:38BDF8&height=200&section=header&text=Harshal%20Mahadik&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20·%20Android%20·%20Systems%20·%20Game%20Dev&descAlignY=58&descSize=16&descColor=e0e7ff" width="100%"/>
 
@@ -6,9 +6,9 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/harshal-mahadik-5a14103a4/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3Fb1SNb4SJO3bg%2FHJd7rfw%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Harshal350"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:harshalmahadik100@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=Harshal350&label=Profile+Views&color=7c3aed&style=flat-square" />
 <img src="https://img.shields.io/badge/Open_To-Opportunities-22c55e?style=flat-square" />
