@@ -35,10 +35,6 @@ Industrial training at **ITnium** gave me real exposure to professional workflow
 
 <div align="center">
 
-<img src="./orbit.svg" width="280" alt="Orbiting Tech Icons" />
-
-<br/><br/>
-
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=js,java,c,cpp,cs,python,html,css,kotlin,ts,bash&theme=dark" />
@@ -252,7 +248,7 @@ Client-facing web development role:
 ## 📊 3D Contribution Calendar
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Calendar" />
+  <img src="profile-3d-contrib/profile-customize.svg" alt="3D Contribution Calendar" />
 </div>
 
 <br/>
