@@ -35,6 +35,10 @@ Industrial training at **ITnium** gave me real exposure to professional workflow
 
 <div align="center">
 
+<img src="./orbit.svg" width="280" alt="Orbiting Tech Icons" />
+
+<br/><br/>
+
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=js,java,c,cpp,cs,python,html,css,kotlin,ts,bash&theme=dark" />
@@ -239,6 +243,16 @@ Client-facing web development role:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshal350/Harshal350/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Harshal350/Harshal350/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 📊 3D Contribution Calendar
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Calendar" />
 </div>
 
 <br/>
