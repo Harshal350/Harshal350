@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Harshal350/Harshal350/main/assets/hero.svg" alt="Harshal Mahadik — Full-Stack, Android, Systems, Game Dev" />
+  <img width="100%" src="https://raw.githubusercontent.com/Harshal350/Harshal350/main/hero.svg" alt="Harshal Mahadik — Full-Stack, Android, Systems, Game Dev" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ Industrial training at **ITnium** gave me real exposure to professional workflow
 <table width="100%">
   <tr>
     <td width="42%" valign="middle">
-      <img src="https://raw.githubusercontent.com/Harshal350/Harshal350/main/assets/cybersim-preview.svg" width="100%" alt="CyberSim — Cyber Attack Simulator (Android) preview" />
+      <img src="https://raw.githubusercontent.com/Harshal350/Harshal350/main/cybersim-preview.svg" width="100%" alt="CyberSim — Cyber Attack Simulator (Android) preview" />
     </td>
     <td width="58%" valign="top">
       <h3>🔴 CyberSim — Cyber Attack Simulator (Android)</h3>
@@ -50,7 +50,7 @@ Industrial training at **ITnium** gave me real exposure to professional workflow
 <table width="100%">
   <tr>
     <td width="42%" valign="middle">
-      <img src="https://raw.githubusercontent.com/Harshal350/Harshal350/main/assets/biotech-preview.svg" width="100%" alt="BioTech — Health, Nutrient &amp; Diet Analyzer (Android) preview" />
+      <img src="https://raw.githubusercontent.com/Harshal350/Harshal350/main/biotech-preview.svg" width="100%" alt="BioTech — Health, Nutrient &amp; Diet Analyzer (Android) preview" />
     </td>
     <td width="58%" valign="top">
       <h3>🟢 BioTech — Health, Nutrient &amp; Diet Analyzer (Android)</h3>
@@ -72,7 +72,7 @@ Industrial training at **ITnium** gave me real exposure to professional workflow
 <table width="100%">
   <tr>
     <td width="42%" valign="middle">
-      <img src="https://raw.githubusercontent.com/Harshal350/Harshal350/main/assets/inventory-preview.svg" width="100%" alt="Enterprise Inventory System — Full-Stack preview" />
+      <img src="https://raw.githubusercontent.com/Harshal350/Harshal350/main/inventory-preview.svg" width="100%" alt="Enterprise Inventory System — Full-Stack preview" />
     </td>
     <td width="58%" valign="top">
       <h3>🏭 Enterprise Inventory System — Full-Stack</h3>
@@ -94,7 +94,7 @@ Industrial training at **ITnium** gave me real exposure to professional workflow
 <table width="100%">
   <tr>
     <td width="42%" valign="middle">
-      <img src="https://raw.githubusercontent.com/Harshal350/Harshal350/main/assets/pokemon-preview.svg" width="100%" alt="Pokémon Battle Game — Browser Turn-Based Engine preview" />
+      <img src="https://raw.githubusercontent.com/Harshal350/Harshal350/main/pokemon-preview.svg" width="100%" alt="Pokémon Battle Game — Browser Turn-Based Engine preview" />
     </td>
     <td width="58%" valign="top">
       <h3>⚔️ Pokémon Battle Game — Browser Turn-Based Engine</h3>
@@ -116,7 +116,7 @@ Industrial training at **ITnium** gave me real exposure to professional workflow
 <table width="100%">
   <tr>
     <td width="42%" valign="middle">
-      <img src="https://raw.githubusercontent.com/Harshal350/Harshal350/main/assets/idcard-preview.svg" width="100%" alt="Employee ID Card Generator — Java Swing preview" />
+      <img src="https://raw.githubusercontent.com/Harshal350/Harshal350/main/idcard-preview.svg" width="100%" alt="Employee ID Card Generator — Java Swing preview" />
     </td>
     <td width="58%" valign="top">
       <h3>🪪 Employee ID Card Generator — Java Swing</h3>
@@ -138,7 +138,7 @@ Industrial training at **ITnium** gave me real exposure to professional workflow
 <table width="100%">
   <tr>
     <td width="42%" valign="middle">
-      <img src="https://raw.githubusercontent.com/Harshal350/Harshal350/main/assets/uiclones-preview.svg" width="100%" alt="Spotify &amp; YouTube Clones — Pixel-Accurate UI preview" />
+      <img src="https://raw.githubusercontent.com/Harshal350/Harshal350/main/uiclones-preview.svg" width="100%" alt="Spotify &amp; YouTube Clones — Pixel-Accurate UI preview" />
     </td>
     <td width="58%" valign="top">
       <h3>🎵 Spotify &amp; YouTube Clones — Pixel-Accurate UI</h3>
@@ -177,7 +177,7 @@ Low-level x86 Assembly programs with direct hardware interaction and no abstract
 The graph below maps the interconnected layers of my technical stack:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harshal350/Harshal350/main/assets/tech-stack-graph.svg" width="100%" alt="Harshal tech stack graph" />
+  <img src="https://raw.githubusercontent.com/Harshal350/Harshal350/main/tech-stack-graph.svg" width="100%" alt="Harshal tech stack graph" />
 </p>
 
 | Layer | Core Technologies | Focus &amp; Methodology |
@@ -272,7 +272,7 @@ The graph below maps the interconnected layers of my technical stack:
 ---
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Harshal350/Harshal350/main/assets/bottom-wave.svg" alt="Particle Wave Bottom" />
+  <img width="100%" src="https://raw.githubusercontent.com/Harshal350/Harshal350/main/bottom-wave.svg" alt="Particle Wave Bottom" />
 </p>
 
 ## 🤝 Connect
